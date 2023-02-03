@@ -13,6 +13,7 @@ nav{
     /* border: 1px solid red; */
     background: #2874F0;
     /* margin: auto; */
+    z-index: 99999;
 }
 #navbar{
     display: grid;

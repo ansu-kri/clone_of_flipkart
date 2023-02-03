@@ -91,7 +91,7 @@ body{
 #top_bannar{
     width: 99%;
     height: 280px;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     margin: auto;
     margin-top: 10px;
 }
@@ -104,7 +104,7 @@ body{
     display: flex;
     width: 99%;
     height: 380px;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     margin: auto;
     margin-top: 10px;
     background-color: #fff;
@@ -112,7 +112,7 @@ body{
 #second_bannar>div:nth-child(1){
     width: 20%;
     height: 380px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     background-image: url(https://rukminim1.flixcart.com/fk-p-flap/278/278/image/7593e7b6640822c1.jpg?q=90);
     background-position:0px bottom;
     background-repeat: no-repeat;
@@ -121,13 +121,13 @@ body{
 #second_bannar>div:nth-child(2){
     width: 65%;
     height: 380px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     background-color: #fff;
 }
 #second_bannar>div:nth-child(3){
     width: 20%;
     height: 380px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     margin-left: 20px;
     background-color: #fff;
 }
@@ -158,13 +158,13 @@ font-weight: 100;
     width: 100%;
     height: 1499px;
     background-color: #fff;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     margin-top: 20px;
 }
 #bottom_part_of_landing>div{
     width: 98%;
     height: 1462px;
     margin: auto;
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
     margin-top: 20px;
 }
