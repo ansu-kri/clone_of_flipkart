@@ -1,30 +1,30 @@
 let productData = [
     {
         brand: "Puma",
-        name: "selena floral FileList",
-        price: "2000",
+        name: "Allen Solly",
+        price: "55-70% off",
         size: "X,XX,XXL",
         productID: "women1",
-        catagory: "Casual",
-        img: "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/t/w/twentydressesmix_dr0935_1_984da863.jpg?rnd=20200526195200",
+        catagory: "Casual shirt",
+        img: "https://rukminim1.flixcart.com/image/200/200/kqgyhe80/shirt/e/7/k/m-men-slim-fit-solid-mandarin-collar-casual-shirt-juhil-bazar-original-imag4h5nphqhwh9h.jpeg?q=70",
     },
     {
         brand: "Gap",
-        name: "balck bella",
-        price: "1347",
+        name: "Dresses,Top",
+        price: "Min 60% off",
         size: "X,M,L,XX,XXL",
         productID: "women2",
-        catagory: "festive",
-        img: "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/1/4/146117301_1_7fcd0574.jpg?rnd=20200526195200",
+        catagory: "Tokyo Talkies,And,Killer",
+        img: "https://rukminim1.flixcart.com/image/200/200/xif0q/dress/z/y/2/m-299tk166-selvia-original-imagbtfgfqdr7h6a-bb.jpeg?q=70",
     },
     {
         brand: "Puma",
-        name: "chil pill supersoft palysuit",
-        price: "799",
+        name: "Raymond,Peter England..",
+        price: "60-80% off",
         size: "M,L,XX,XXS",
         productID: "women3",
-        catagory: "party",
-        img: "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/a/c/achwsivc466_1_a6c9da54.jpg?rnd=20200526195200",
+        catagory: "Shirt, Tousers",
+        img: "https://rukminim1.flixcart.com/image/200/200/ktx9si80/shirt/u/a/a/42-14381826-mast-harbour-original-imag75ngyhdhcbqc.jpeg?q=70",
     },
     {
         brand: "Gap",
@@ -37,129 +37,129 @@ let productData = [
     },
     {
         brand: "Bady Moo",
-        name: "balck bella",
-        price: "1347",
+        name: "Park Avenue,Blackberrys..",
+        price: "Min 65% off",
         size: "X,M,L",
         productID: "women5",
-        catagory: "workout",
-        img: "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/p/h/pheeta-pht0067_1_96256fbd.jpg?rnd=20200526195200",
+        catagory: "Formal Wear!",
+        img: "https://rukminim1.flixcart.com/image/200/200/xif0q/trouser/o/3/j/32-maw21ct301i-metronaut-original-imag8vfqwu5xnzkc-bb.jpeg?q=70",
     },
     {
         brand: "Pepe jeans",
-        name: "plus size womens",
-        price: "979",
+        name: "Nike, ADIDAS..",
+        price: "55-80% off",
         size: "XXS,M,L",
         productID: "women6",
-        catagory: "travel",
-        img: "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/o/_/o_228327501_1_857abfa6.jpg?rnd=20200526195200",
+        catagory: "Sports,Trackpants..",
+        img: "https://rukminim1.flixcart.com/image/200/200/xif0q/short/w/i/r/l-solid-men-dark-blue-shorts-adrenex-original-imaghvhr2zvbgp6t.jpeg?q=70",
     },
     {
         brand: "Puma",
-        name: "chil pill supersoft palysuit",
-        price: "2000",
+        name: "Provogue,Wrogn..",
+        price: "Under Rs 599",
         size: "XXL,M,L",
         productID: "women7",
-        catagory: "sports",
-        img: "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/t/w/twentydressesmix_dr0769_1_90caf4b3.jpg?rnd=20200526195200",
+        catagory: "Now or Never Deal!",
+        img: "https://rukminim1.flixcart.com/image/200/200/xif0q/backpack/j/h/v/axe-unisex-laptop-college-school-travel-backpack-king-k-backpack-original-imagjnvvfz34nphg.jpeg?q=70",
     },
     {
         brand: "Gap",
-        name: "chil pill supersoft palysuit",
-        price: "1347",
+        name: "Grab or Gone",
+        price: "Under RS 599",
         size: "X,M,L,XX",
         productID: "women8",
-        catagory: "Casual",
-        img: "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/k/a/kazo-123019black_1_85f6e006.jpg?rnd=20200526195200",
+        catagory: "Men's Shoes",
+        img: "https://rukminim1.flixcart.com/image/200/200/kq8dua80/shoe/c/d/i/7-95000215-41-roamra-white-original-imag4ahytjmqdzz8.jpeg?q=70",
     },
     {
         brand: "Bady Moo",
-        name: "balck bella",
-        price: "976",
+        name: "Sabse Amazing Deals!",
+        price: "Under RS 299",
         size: "XS,M,L,XX",
         productID: "women9",
-        catagory: "festive",
-        img: "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/r/t/rtor0011_1_67335460.jpg?rnd=20200526195200",
+        catagory: "Lehengas & choli",
+        img: "https://rukminim1.flixcart.com/image/200/200/kz5vwy80/lehenga-choli/v/h/3/free-half-sleeve-bridal-udbhav-textile-original-imagb86ecmmwjewk.jpeg?q=70",
     },
     {
         brand: "Gap",
-        name: "woman cotton off white",
-        price: "456",
+        name: "Handbags, Slingbags",
+        price: "Under RS 299",
         size: "X,L,XX",
         productID: "women10",
-        catagory: "party",
-        img: "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/a/h/ahtufrgfe19523_1_e0416277.jpg?rnd=20200526195200"
+        catagory: "Trendy Collection",
+        img: "https://rukminim1.flixcart.com/image/200/200/xif0q/hand-messenger-bag/n/t/e/attractive-sling-bag-tc-225-slnbg-elstc-trn-lck-grn-sling-bag-original-imagkppwjfq8w3ay.jpeg?q=70"
     },
     {
         brand: "Bee bay",
-        name: "woman cotton off white",
-        price: "986",
+        name: "Handbags",
+        price: "Under RS 599",
         size: "M,L,XXS",
         productID: "women11",
-        catagory: "formal",
-        img: "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/a/c/achwkea595-1_dc090828.jpg?rnd=20200526195200",
+        catagory: "Budget Buys",
+        img: "https://rukminim1.flixcart.com/image/200/200/kxaq7ww0/hand-messenger-bag/4/g/c/women-shoulder-bag-brown-handbag-29-brownshoulder-01-shoulder-original-imag9sb87fbd5dgv.jpeg?q=70",
     },
     {
         brand: "Kaniroot",
-        name: "chill pill supersoft",
-        price: "567",
+        name: "Trendy Heandbag",
+        price: "Under RS 499",
         size: "S,M,L,XXl",
         productID: "women12",
-        catagory: "workout",
-        img: "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/2/3/238451501_1_43bf9c90.jpg?rnd=20200526195200",
+        catagory: "Grab the Deal!",
+        img: "https://rukminim1.flixcart.com/image/200/200/xif0q/sling-bag/r/e/f/women-s-leatherette-sling-bag-maroon-maroon-fgo-489-1-25-fgo-489-original-imagjfmpuynqaqt9.jpeg?q=70",
     },
     {
         brand: "Bee bay",
-        name: "Curev multi-Color",
-        price: "765",
+        name: "Campus, Asian..",
+        price: "Under Rs 599",
         size: "S,X,L,XXl",
         productID: "women13",
         catagory: "travel",
-        img: "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/r/t/rtor0011_1_67335460.jpg?rnd=20200526195200",
+        img: "https://rukminim1.flixcart.com/image/200/200/xif0q/shoe/z/v/i/-original-imagg6r9tgyr9zau.jpeg?q=70",
     },
     {
         brand: "Gap",
-        name: "Mega striple",
-        price: "9999",
+        name: "Red Tape..",
+        price: "Under RS 9999",
         size: "S,M,X,XXL",
         productID: "women14",
         catagory: "sports",
-        img: "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/o/_/o_119512401_1_e2d71be7.jpg?rnd=20200526195200",
+        img: "https://rukminim1.flixcart.com/image/200/200/xif0q/shoe/n/d/n/4-rlo141-red-tape-pink-navy-original-imaghfkawmtzpn5z.jpeg?q=70",
     },
     {
         brand: "Puma",
-        name: "balck bella",
-        price: "1347",
+        name: "Watches",
+        price: "Under RS 1347",
         size: "S,M,X,XXL",
         productID: "women15",
         catagory: "Casual",
-        img: "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/1/4/146117301_1_7fcd0574.jpg?rnd=20200526195200",
+        img: "https://rukminim1.flixcart.com/image/200/200/kn4xhu80/watch/n/u/f/anlg-428-blue-brown-analogue-original-imagfvtheszgkhdn.jpeg?q=70",
     },
     {
         brand: "Kaniroot",
-        name: "chil pill supersoft palysuit",
+        name: "Girls Lehenga Choli",
         price: "799",
         size: "S,M,L,XXL",
         productID: "women16",
         catagory: "festive",
-        img: "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/a/c/achwsivc466_1_a6c9da54.jpg?rnd=20200526195200",
+        img: "https://rukminim1.flixcart.com/image/200/200/xif0q/kids-lehenga-choli/v/5/h/15-16-years-tlhc068-bitiya-by-bhama-original-imaghvn4gmrxfha6.jpeg?q=70",
     },
     {
         brand: "Puma",
-        name: "plus size womens",
-        price: "2000",
+        name: "Kids Winder Wear",
+        price: "Under RS 2000",
         size: "S,XX",
         productID: "women17",
-        catagory: "party",
-        img: "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/i/n/ind158-pnk_1_3dc181e4.jpg?rnd=20200526195200",
+        catagory: "Steal Deals!",
+        img: "https://rukminim1.flixcart.com/flap/200/200/image/4572835daccaf844.jpg?q=70",
     },
     {
         brand: "Gap",
-        name: "balck bella",
-        price: "1347",
+        name: "Earrings",
+        price: "From RS 199",
         size: "S,M,XX,XXL",
         productID: "women18",
-        catagory: "formal",
-        img: "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-550,/pub/media/catalog/product/p/h/pheeta-pht0067_1_96256fbd.jpg?rnd=20200526195200",
+        catagory: "festive",
+        img: "https://rukminim1.flixcart.com/image/200/200/kwcfngw0/earring/v/v/w/na-mf-apl-d3red-ashapriya-original-imag7j48eyyggahf.jpeg?q=70",
     },
     {
         brand: "Bee bay",
@@ -234,7 +234,7 @@ let container = document.getElementById("container");
 let cartLS = JSON.parse(localStorage.getItem("cart-page")) || [];
 
 function display(data) {
-    container1.innerHTML=null;
+    container.innerHTML=null;
     data.forEach(function (ele) {
         let product = document.createElement("div");
 
@@ -244,17 +244,20 @@ function display(data) {
         let name = document.createElement("h3");
         name.innerText = ele.name;
 
-        let price = document.createElement("p");
-        price.innerText = "$" + ele.price;
+        let price=document.createElement("p");
+        price.innerText=ele.price;
 
-        let brand = document.createElement("p");
-        brand.innerText = ele.brand;
+        // let price = document.createElement("p");
+        // price.innerText = "$" + ele.price;
+
+        // let brand = document.createElement("p");
+        // brand.innerText = ele.brand;
 
         // let size = document.createElement("h2");
         // size.innerText = ele.size;
 
-        // let catagory = document.createElement("p");
-        // catagory.innerText = ele.catagory;
+        let catagory = document.createElement("p");
+        catagory.innerText = ele.catagory;
 
         // let cart = document.createElement("button");
         // cart.innerText = "Add To Cart";
@@ -262,9 +265,9 @@ function display(data) {
         //     AddToCart(ele);
         // })
 
-        product.append(img, name, price, brand);
+        product.append(img, name, price, catagory);
 
-        container1.append(product);
+        container.append(product);
     });
 }
 display(productData)
