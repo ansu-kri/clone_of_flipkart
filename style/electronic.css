@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+background-color: #fff;
+}
+#topElectronic{
+    margin: auto;
+    margin-top: 80px;
+    text-align: center;
+}
+#containers{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 30px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+#containers>div{
+    margin: auto;
+    width: 80%;
+    height: 300px;
+    border: 0px solid red;
+    cursor: pointer;
+}
+#containers>div>img{
+    margin: auto;
+    margin-left: 40px;
+    width: 60%;
+}
+#containers>div>img:hover{
+    width: 62%;
+}
